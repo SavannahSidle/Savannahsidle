@@ -117,14 +117,13 @@ body {
   text-transform: uppercase;
 }
 
-.hero-title__field {
-  display: block;
-  margin-top: .55rem;
+.hero-disciplines {
+  margin: -.5rem 0 1.5rem !important;
   color: var(--portfolio-accent);
-  font-size: .34em;
+  font-size: clamp(1.15rem, 2.25vw, 1.85rem) !important;
   font-weight: 700;
   letter-spacing: -.025em;
-  line-height: 1.15;
+  line-height: 1.35;
 }
 
 .hero-intro {
