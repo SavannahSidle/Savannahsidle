@@ -10,7 +10,7 @@ redirect_from:
 
 <section class="portfolio-hero">
   <div class="portfolio-hero__copy">
-    <h1>Savannah Sidle<span class="hero-title__field">Human-Computer Interaction</span></h1>
+    <h1>Savannah Sidle<span class="hero-title__field">Human–AI Interaction</span><span class="hero-title__field hero-title__field--second">Human-Computer Interaction</span></h1>
     <p class="hero-intro">Her research focuses on trust, adaptive systems, accessibility, and responsible AI. She also develops apps and websites.</p>
     <div class="hero-actions">
       <a class="portfolio-button" href="/projects/">Explore projects</a>
