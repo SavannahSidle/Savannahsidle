@@ -9,28 +9,28 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Savannah Sidle / Portfolio"
+title                    : "Savannah Sidle"
 title_separator          : "-"
-name                     : &name "Savannah Sidle.."
-description              : &description "Savannah Sidle's Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Savannah Sidle"
+description              : &description "Human–AI interaction, HCI, responsible AI, app development, and web development."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://savannahsidle.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "S-Sidle/SavannahSidle.github.io"
+repository               : "SavannahSidle/Savannahsidle"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "SS"
+  avatar           : "profile-silhouette.png"
+  name             : "Savannah Sidle"
   pronouns         : # example: "she/her"  
-  bio              : "Savannah Sidle specializes in artificial intelligence, Human–Computer Interaction, and psychology. Her work integrates AI, user research, and behavioural science to design, evaluate, and govern intelligent systems that advance human–AI interaction, trust, accessibility, adaptive interfaces, and agentic AI."
-  location         : "Earth"
-  employer         : "x"
+  bio              : "Human–AI interaction researcher and HCI practitioner building thoughtful apps, websites, and adaptive systems."
+  location         : "Ottawa, Canada"
+  employer         :
   uri              : # URL
-  email            : "x" 
+  email            : 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "S-Sidle"
+  github           :
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

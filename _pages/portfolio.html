@@ -1,14 +1,40 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
+title: "Projects"
+permalink: /projects/
+author_profile: false
+redirect_from:
+  - /portfolio/
 ---
 
-{% include base_path %}
+<p class="page-intro">Selected research, systems, and digital work.</p>
 
+<div class="project-grid">
+  <article class="project-card project-card--lead">
+    <p class="project-type">Master’s research · Human–AI interaction</p>
+    <h2>User Trust of Adaptive Self-Aware Interfaces</h2>
+    <p>Research into how people respond when an interface perceives context and adapts autonomously. The work examined trust, comfort, safety, and the line between useful intelligence and unwanted control.</p>
+    <ul class="project-tags"><li>Trust calibration</li><li>Adaptive systems</li><li>Mixed methods</li></ul>
+  </article>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  <article class="project-card">
+    <p class="project-type">Concept · Accessible interaction</p>
+    <h2>EZ-TV</h2>
+    <p>A dementia-support television interface designed to reduce cognitive load and make familiar entertainment easier to navigate.</p>
+    <ul class="project-tags"><li>Accessibility</li><li>Cognitive design</li><li>Prototyping</li></ul>
+  </article>
 
+  <article class="project-card">
+    <p class="project-type">Platform · Web development</p>
+    <h2>Alien Arboreal</h2>
+    <p>A responsive care and natural-history platform that turns detailed husbandry practice into clear guidance, animal profiles, and observation records.</p>
+    <ul class="project-tags"><li>Information architecture</li><li>Content design</li><li>Responsive web</li></ul>
+  </article>
+
+  <article class="project-card">
+    <p class="project-type">Current work · Applied development</p>
+    <h2>Apps and Websites</h2>
+    <p>Building focused digital tools and websites that make complex information usable, coherent, and accessible across devices.</p>
+    <ul class="project-tags"><li>UX strategy</li><li>Front-end development</li><li>AI-assisted workflows</li></ul>
+  </article>
+</div>
