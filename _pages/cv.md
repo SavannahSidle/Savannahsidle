@@ -13,6 +13,7 @@ description: "Professional experience, research, education, awards, and skills f
   <p class="page-intro">Savannah Sidle is a Human–Computer Interaction researcher and digital builder based in Ottawa. Her work spans human–AI interaction, responsible AI, adaptive interfaces, accessibility, research, teaching, and technical support.</p>
   <div class="cv-contact">
     <span>Ottawa, Ontario</span>
+    <a href="mailto:Sidle@hotmail.ca">Sidle@hotmail.ca</a>
     <a href="https://www.linkedin.com/in/SavannahSidle">LinkedIn</a>
     <a href="javascript:window.print()">Print CV</a>
   </div>
