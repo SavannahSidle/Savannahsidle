@@ -117,6 +117,16 @@ body {
   text-transform: uppercase;
 }
 
+.hero-title__field {
+  display: block;
+  margin-top: .55rem;
+  color: var(--portfolio-accent);
+  font-size: .34em;
+  font-weight: 700;
+  letter-spacing: -.025em;
+  line-height: 1.15;
+}
+
 .hero-intro {
   max-width: 760px;
   color: var(--global-text-color-light);
