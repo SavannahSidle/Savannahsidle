@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Savannah Sidle"
+title: ""
+description: "Savannah Sidle works across human–AI interaction, Human-Computer Interaction, responsible AI, app development, and web development."
 author_profile: false
 redirect_from:
   - /about/
