@@ -11,7 +11,7 @@ redirect_from:
 <section class="portfolio-hero">
   <div class="portfolio-hero__copy">
     <p class="eyebrow">Human–AI Interaction · Human-Computer Interaction</p>
-    <h1>Savannah Sidle works in Human–AI Interaction and Human-Computer Interaction.</h1>
+    <h1>Savannah Sidle studies Human–AI Interaction and Human-Computer Interaction.</h1>
     <p class="hero-intro">Her research focuses on trust, adaptive systems, accessibility, and responsible AI. She also develops apps and websites.</p>
     <div class="hero-actions">
       <a class="portfolio-button" href="/projects/">Explore projects</a>
