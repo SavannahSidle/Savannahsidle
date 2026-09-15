@@ -46,7 +46,7 @@ description: "Professional experience, research, education, awards, and skills f
         <li>Recruited Elders, Knowledge Keepers, and campus service providers to deliver culturally relevant workshops and expand access to specialized support.</li>
         <li>Provided individualized coaching, clarified academic expectations, addressed barriers, and connected students with university and community resources.</li>
         <li>Facilitated communication between students and professors, documented concerns involving students in distress, and coordinated timely referrals with CISCE staff.</li>
-        <li>Maintained Brightspace materials and study resources, organized semester celebrations, and created individualized awards recognizing student achievement and growth.</li>
+        <li>Maintained Brightspace materials and study resources, collaborated with the facilitation team on end-of-semester celebrations, and independently created individualized awards recognizing student achievement and growth.</li>
       </ul>
     </article>
 
@@ -59,7 +59,7 @@ description: "Professional experience, research, education, awards, and skills f
         <h4>PSYC 1001H: Introduction to Psychology I <span>Jan. – Apr. 2023</span></h4>
         <ul>
           <li>Managed participation records, grades, tests, and examinations for 200 students while meeting grading deadlines.</li>
-          <li>Provided detailed assessment feedback, clarified grading decisions, and documented academic-integrity concerns.</li>
+          <li>Provided assessment feedback, clarified grading decisions, and documented academic-integrity concerns.</li>
         </ul>
       </div>
       <div class="cv-subentry">
@@ -86,7 +86,7 @@ description: "Professional experience, research, education, awards, and skills f
       </header>
       <ul>
         <li>Supported faculty across research, administrative, organizational, and project-based assignments.</li>
-        <li>Coordinated a social-psychology study on friendship, first impressions, and social networking, including participant onboarding, consent, questionnaire development, recorded interviews, and SPSS data preparation.</li>
+        <li>Supported a social-psychology study on friendship, first impressions, and social networking by assisting with participant onboarding, consent procedures, questionnaire development, and recorded interviews.</li>
         <li>Managed documents, schedules, logistics, and operations, and coordinated travel and a visual itinerary for a 30-student academic trip to Harlow, England.</li>
       </ul>
     </article>
@@ -155,7 +155,7 @@ description: "Professional experience, research, education, awards, and skills f
     <article class="cv-entry">
       <header><div><h3>AI Sustainability &amp; Indigenous Food Sovereignty Prototype</h3><p>Mila Indigenous Pathfinders in AI</p></div><time>2024</time></header>
       <ul>
-        <li>Developed an AI-supported concept addressing food insecurity, climate adaptation, and Indigenous Food Sovereignty.</li>
+        <li>Co-developed an AI-supported concept with a group addressing food insecurity, climate adaptation, and Indigenous Food Sovereignty.</li>
         <li>Integrated sustainability, community context, responsible technology use, and Indigenous knowledge systems.</li>
       </ul>
     </article>
@@ -244,7 +244,7 @@ description: "Professional experience, research, education, awards, and skills f
       <header><div><h3>Indigenous Pathfinders in AI</h3><p>Mila – Quebec AI Institute · Montreal</p></div><time>May – Aug. 2024</time></header>
       <ul>
         <li>Selected for the CIFAR Inclusive AI Scholarship and completed AI training integrating machine-learning foundations, project development, and Indigenous perspectives.</li>
-        <li>Developed an AI sustainability prototype and later returned as an alumni application reviewer.</li>
+        <li>Co-developed an AI sustainability prototype with a group and later returned as an alumni application reviewer.</li>
       </ul>
     </article>
 
@@ -274,7 +274,7 @@ description: "Professional experience, research, education, awards, and skills f
     <article class="cv-entry">
       <header><div><h3>Conferences &amp; workshops</h3></div></header>
       <div class="cv-timeline">
-        <p><time>Dec. 2024</time><span><strong>TELUS Data Ethics &amp; Responsible AI Consultation Workshop</strong><br>Contributed Indigenous perspectives on Indigenous Knowledge, data governance, ethical data practice, and responsible AI. Findings informed TELUS’ formal What We Heard report.</span></p>
+        <p><time>Dec. 2024</time><span><strong>TELUS Data Ethics &amp; Responsible AI Consultation Workshop</strong><br>Contributed Indigenous perspectives on Indigenous Knowledge, data governance, ethical data practice, and responsible AI. Findings informed TELUS’ formal “What We Heard” report.</span></p>
         <p><time>Oct. 2024</time><span><strong>Topics in Prebiotic Chemistry and Early Earth Environments</strong><br>Interdisciplinary discussion of impacts, prebiotic chemistry, planetary evolution, and origins-of-life research.</span></p>
         <p><time>Sept. 2024</time><span><strong>ALL IN – Artificial Intelligence</strong><br>Received TELUS Responsible AI Program funding and completed a purple-teaming workshop.</span></p>
         <p><time>May &amp; July 2024</time><span><strong>CARE Principles Workshop</strong><br>NASA Science Activation SCoPE Team and Arizona State University. Studied Indigenous data sovereignty, relational accountability, and culturally informed engagement.</span></p>
@@ -350,8 +350,8 @@ description: "Professional experience, research, education, awards, and skills f
     </article>
 
     <article class="cv-entry">
-      <header><div><h3>Sighted Volunteer</h3><p>Be My Eyes · Virtual</p></div><time>Mar. 2023 – Mar. 2025</time></header>
-      <ul><li>Provided real-time visual assistance through video calls, translating objects, text, environments, and tasks into concise verbal guidance.</li></ul>
+      <header><div><h3>Occasional Sighted Volunteer</h3><p>Be My Eyes · Virtual</p></div><time>Mar. 2023 – Mar. 2025</time></header>
+      <ul><li>Responded to occasional requests for real-time visual assistance, translating objects, text, environments, and tasks into concise verbal guidance when a user needed support.</li></ul>
     </article>
 
     <article class="cv-entry">
@@ -425,7 +425,7 @@ description: "Professional experience, research, education, awards, and skills f
       <div><dt>Design &amp; prototyping</dt><dd>Figma, Miro, AI prototyping, interface prototyping, information architecture, and visual communication.</dd></div>
       <div><dt>Technical support</dt><dd>Hardware, software, and network troubleshooting; remote support; configuration; LogMeIn; and TeamViewer.</dd></div>
       <div><dt>Platforms</dt><dd>Brightspace, Google Classroom, Jira, Slack, Microsoft Teams, Zoom, Google Meet, Windows, and macOS.</dd></div>
-      <div><dt>Communication</dt><dd>Scholarly and technical writing, science communication, presentations, academic feedback, and stakeholder communication.</dd></div>
+      <div><dt>Communication</dt><dd>Scholarly and technical writing, science communication, public speaking, presentations, academic feedback, and stakeholder communication.</dd></div>
       <div><dt>Languages</dt><dd>English (fluent) and French (beginner).</dd></div>
     </dl>
   </div>
