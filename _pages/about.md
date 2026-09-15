@@ -19,7 +19,7 @@ redirect_from:
     </div>
   </div>
   <figure class="portfolio-hero__portrait">
-    <img src="/images/profile-silhouette.png" alt="Anonymous navy profile silhouette with three gold stars below the eye">
+    <img src="/images/profile-silhouette.png" alt="Navy silhouette of a woman with a brain outline and three gold stars on her cheek">
   </figure>
 </section>
 
