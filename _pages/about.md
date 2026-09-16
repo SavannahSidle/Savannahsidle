@@ -17,7 +17,11 @@ redirect_from:
       <a class="portfolio-button" href="/projects/">Explore projects</a>
       <a class="portfolio-button portfolio-button--quiet" href="/cv/">View CV</a>
     </div>
-    <p class="hero-advocacy"><span>Current advocacy</span><a href="https://www.change.org/BetterCare">Better Care for My Mother</a></p>
+    <aside class="hero-advocacy" aria-label="Current advocacy">
+      <span>Current advocacy</span>
+      <a href="https://www.change.org/BetterCare">Fix Gaps in Ontario’s Long-Term Care</a>
+      <p>Staffing, rehabilitation, supervised mobility, and appropriate care for younger residents with early-onset dementia.</p>
+    </aside>
   </div>
   <figure class="portfolio-hero__portrait">
     <img src="/images/profile-silhouette.png" alt="Left-facing anatomical profile with a circuit-board brain and three gold cheek stars">
