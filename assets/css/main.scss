@@ -186,22 +186,34 @@ body {
 }
 
 .hero-advocacy {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .35rem .7rem;
-  align-items: center;
-  margin: 1.4rem 0 0 !important;
-  font-size: .9rem !important;
+  max-width: 720px;
+  margin: 1.5rem 0 0;
+  padding: 1rem 1.1rem;
+  border-left: 3px solid var(--portfolio-accent);
+  background: var(--portfolio-panel);
 }
 
 .hero-advocacy span {
+  display: block;
+  margin-bottom: .3rem;
   color: var(--global-text-color-light);
-  font-weight: 700;
+  font-size: .72rem;
+  font-weight: 800;
+  letter-spacing: .1em;
+  text-transform: uppercase;
 }
 
 .hero-advocacy a {
+  display: inline-block;
   color: var(--portfolio-accent);
   font-weight: 800;
+}
+
+.hero-advocacy p {
+  margin: .35rem 0 0 !important;
+  color: var(--global-text-color);
+  font-size: .88rem !important;
+  line-height: 1.5;
 }
 
 .advocacy-card {
@@ -221,9 +233,9 @@ body {
 }
 
 .advocacy-card p:not(.section-label) {
-  margin: 0 0 1.25rem;
+  margin: 0 0 1.1rem;
   color: var(--global-text-color);
-  line-height: 1.6;
+  line-height: 1.65;
 }
 
 .focus-strip {
