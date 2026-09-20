@@ -68,16 +68,6 @@ description: "Selected education, research, experience, and skills for Savannah 
 </section>
 
 <section class="cv-section">
-  <div class="cv-section__heading"><h2>Selected development</h2></div>
-  <div class="cv-section__body cv-columns">
-    <div><h4>Indigenous Pathfinders in AI</h4><p>Mila · CIFAR Inclusive AI Scholarship · AI foundations, project development, responsible technology, and alumni application review.</p></div>
-    <div><h4>Responsible AI consultation</h4><p>Contributed Indigenous perspectives on Indigenous Knowledge, data governance, ethical data practice, and responsible AI during a TELUS consultation workshop.</p></div>
-    <div><h4>Science communication</h4><p>NASA Astrobiology workshops, AbSciCon, Science Talk, public speaking, and science education for school audiences.</p></div>
-    <div><h4>Professional publication</h4><p><em>Redesigning Educational Systems with Inclusive Learning for ADHD Individuals</em>, Carleton University Teaching and Learning Services.</p></div>
-  </div>
-</section>
-
-<section class="cv-section">
   <div class="cv-section__heading"><h2>Core skills</h2></div>
   <div class="cv-section__body">
     <dl class="cv-skills">
