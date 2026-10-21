@@ -29,7 +29,7 @@ redirect_from:
 </section>
 
 <section class="focus-strip" aria-label="Areas of focus">
-  <div><span>01</span><strong>Human–AI interaction</strong><p>Trust, agency, explanation, and responsible adaptation.</p></div>
-  <div><span>02</span><strong>Research and evaluation</strong><p>Mixed methods grounded in how people actually think and behave.</p></div>
-  <div><span>03</span><strong>Apps and websites</strong><p>Clear, accessible digital experiences built from idea to working system.</p></div>
+  <div><strong>Human–AI interaction</strong><p>Trust, agency, explanation, and responsible adaptation.</p></div>
+  <div><strong>Research and evaluation</strong><p>Mixed methods grounded in how people actually think and behave.</p></div>
+  <div><strong>Apps and websites</strong><p>Clear, accessible digital experiences built from idea to working system.</p></div>
 </section>
