@@ -303,6 +303,35 @@ body {
   min-height: 370px;
 }
 
+.mica-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  align-items: center;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  min-height: 0;
+}
+
+.mica-feature__visual {
+  display: block;
+  overflow: hidden;
+  border-radius: .8rem;
+}
+
+.mica-feature__visual img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1.7;
+  object-fit: cover;
+}
+
+.mica-feature__copy > p {
+  margin-top: .6rem;
+}
+
+.mica-feature__copy > p.project-type {
+  margin-top: 0;
+}
+
 .project-card h2 {
   max-width: 700px;
   margin: .35rem 0 1rem;
@@ -436,6 +465,10 @@ body {
 
   .project-card--lead {
     grid-column: auto;
+  }
+
+  .mica-feature {
+    grid-template-columns: 1fr;
   }
 
   .focus-strip > div {
