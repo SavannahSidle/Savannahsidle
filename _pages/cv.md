@@ -73,7 +73,7 @@ description: "Selected education, research, experience, and skills for Savannah 
     <dl class="cv-skills">
       <div><dt>Human–AI Interaction</dt><dd>Trust calibration, adaptive interfaces, explainability, responsible AI, privacy, and AI evaluation.</dd></div>
       <div><dt>Research</dt><dd>Mixed methods, experimental design, interviews, surveys, thematic analysis, usability studies, and research communication.</dd></div>
-      <div><dt>Development</dt><dd>HTML, CSS, JavaScript, Python, Jekyll, GitHub, GitHub Pages, DNS, custom domains, and HTTPS.</dd></div>
+      <div><dt>Development</dt><dd>HTML, CSS, JavaScript, Swift, SwiftUI, Python, Jekyll, GitHub, GitHub Pages, DNS, custom domains, and HTTPS.</dd></div>
       <div><dt>Design</dt><dd>Accessibility, human factors, usability evaluation, prototyping, information architecture, Figma, and Miro.</dd></div>
       <div><dt>Communication</dt><dd>Technical writing, scholarly writing, science communication, public speaking, presentations, and stakeholder communication.</dd></div>
     </dl>
