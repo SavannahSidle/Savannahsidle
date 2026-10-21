@@ -12,7 +12,7 @@ redirect_from:
   <div class="portfolio-hero__copy">
     <h1>Savannah Sidle</h1>
     <p class="hero-disciplines">Human–AI Interaction<br>Human-Computer Interaction</p>
-    <p class="hero-intro">Research focuses on trust, adaptive systems, accessibility, and responsible AI. Current development includes apps, websites, and interactive systems.</p>
+    <p class="hero-intro">Research focuses on trust, adaptive systems, accessibility, and responsible AI. Current development includes apps, websites, and interactive systems.<br>Through MICA Digital, I also build websites for Canadian small businesses.</p>
     <div class="hero-actions">
       <a class="portfolio-button" href="/projects/">Explore projects</a>
       <a class="portfolio-button portfolio-button--quiet" href="/cv/">Selected background</a>
