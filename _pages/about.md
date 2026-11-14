@@ -1,35 +1,115 @@
 ---
+layout: splash
 permalink: /
-title: ""
-description: "Savannah Sidle works across human–AI interaction, Human-Computer Interaction, responsible AI, app development, and web development."
+title: "Savannah Sidle | Human–AI Interaction, Trust, and Accessible Design"
+description: "Human–AI interaction and HCI consulting for organizations worldwide, plus custom websites for Canadian small businesses through MICA Digital."
 author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<section class="portfolio-hero">
-  <div class="portfolio-hero__copy">
-    <h1>Savannah Sidle</h1>
-    <p class="hero-disciplines">Human–AI Interaction<br>Human-Computer Interaction</p>
-    <p class="hero-intro">Research focuses on trust, adaptive systems, accessibility, and responsible AI. Current development includes apps, websites, and interactive systems.<br>Through MICA Digital, I also build websites for Canadian small businesses.</p>
-    <div class="hero-actions">
-      <a class="portfolio-button" href="/projects/">Explore projects</a>
-      <a class="portfolio-button portfolio-button--quiet" href="/cv/">Selected background</a>
-    </div>
-    <aside class="hero-advocacy" aria-label="Current advocacy">
-      <span>Current advocacy</span>
-      <a href="https://www.change.org/BetterCare">Fix Gaps in Ontario’s Long-Term Care</a>
-      <p>Staffing, rehabilitation, supervised mobility, and appropriate care for younger residents with early-onset dementia.</p>
-    </aside>
-  </div>
-  <figure class="portfolio-hero__portrait">
-    <img src="/images/profile-silhouette.png" alt="Left-facing anatomical profile with a circuit-board brain and three gold cheek stars">
-  </figure>
-</section>
+<link rel="stylesheet" href="/assets/css/main.css?portfolio-20261114">
 
-<section class="focus-strip" aria-label="Areas of focus">
-  <div><strong>Human–AI interaction</strong><p>Trust, agency, explanation, and responsible adaptation.</p></div>
-  <div><strong>Research and evaluation</strong><p>Mixed methods grounded in how people actually think and behave.</p></div>
-  <div><strong>Apps and websites</strong><p>Clear, accessible digital experiences built from idea to working system.</p></div>
-</section>
+<div class="t1-review">
+  <section class="t1-hero" aria-labelledby="t1-title">
+    <div class="t1-hero__copy">
+      <p class="t1-eyebrow">Human–Computer Interaction · Ottawa, Canada · Working worldwide</p>
+      <h1 id="t1-title">Human–AI interaction, trust, and accessible design.</h1>
+      <p class="t1-lede">I’m Savannah Sidle, an HCI researcher, designer, and developer focused on the human side of technology—from how people experience AI to how a small business shows up online.</p>
+      <div class="t1-actions">
+        <a class="t1-button" href="#consulting">Explore HCI consulting</a>
+        <a class="t1-text-link" href="mailto:Sidle@hotmail.ca?subject=Project%20inquiry">Talk about a project <span aria-hidden="true">↗</span></a>
+      </div>
+      <p class="t1-credential-line">M.HCI, Carleton University <span aria-hidden="true">·</span> B.A. in Psychology · Four-year degree</p>
+    </div>
+    <aside class="t1-hero__note" aria-label="Areas of practice">
+      <p class="t1-eyebrow">Areas of practice</p>
+      <ul>
+        <li>Human–AI interaction</li>
+        <li>Trust, privacy, and agency</li>
+        <li>Usability and accessibility</li>
+        <li>Research and evaluation</li>
+      </ul>
+      <a href="/cv/">View selected background <span aria-hidden="true">↗</span></a>
+    </aside>
+  </section>
+
+  <section class="t1-offers" aria-label="Ways to work together">
+    <article class="t1-offer" id="consulting">
+      <p class="t1-eyebrow">For organizations · Remote, worldwide</p>
+      <h2>HCI consulting for products built around people.</h2>
+      <p>Bring a research question, a difficult interaction, or a technology that isn’t working for the people who use it. I help teams understand user needs and turn that understanding into clearer, more accessible experiences.</p>
+      <ul class="t1-checklist">
+        <li>UX research and usability evaluation</li>
+        <li>Human–AI interaction, trust, and responsible AI</li>
+        <li>Accessibility, cognitive load, and inclusive design</li>
+        <li>Research synthesis and practical recommendations</li>
+      </ul>
+      <a class="t1-button t1-button--light" href="mailto:Sidle@hotmail.ca?subject=HCI%20consulting%20inquiry">Discuss an HCI project</a>
+    </article>
+    <article class="t1-offer t1-offer--mica" id="mica">
+      <p class="t1-eyebrow">Through MICA Digital · Canadian small businesses</p>
+      <h2>Custom websites that make your business clear.</h2>
+      <p>MICA Digital is my Indigenous-owned studio for small businesses across Canada. I bring content, design, development, and user experience together to build fast, accessible websites that work well on phones, tablets, and computers.</p>
+      <ul class="t1-checklist">
+        <li>New websites and thoughtful redesigns</li>
+        <li>Clear scope, costs, and next steps</li>
+        <li>Mobile-first design and accessible development</li>
+        <li>Custom functionality with a practical purpose</li>
+      </ul>
+      <a class="t1-button t1-button--light" href="https://micadigital.ca/">Explore MICA Digital <span aria-hidden="true">↗</span></a>
+    </article>
+  </section>
+
+  <section class="t1-work" id="selected-work" aria-labelledby="t1-work-title">
+    <div class="t1-section-heading">
+      <div>
+        <p class="t1-eyebrow">Selected work</p>
+        <h2 id="t1-work-title">Research and systems shaped by real human needs.</h2>
+      </div>
+      <a class="t1-text-link" href="/projects/">Browse all projects <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="t1-work-grid">
+      <article class="t1-work-card t1-work-card--featured">
+        <p class="t1-eyebrow">Master’s research · Human–AI interaction</p>
+        <h3>User Trust of Adaptive Self-Aware Interfaces</h3>
+        <p>Mixed-methods research on how people respond when an interface notices changing conditions and acts on its own. The study examined trust, comfort, perceived safety, and user control.</p>
+        <ul class="t1-tags"><li>Adaptive systems</li><li>Trust</li><li>Mixed methods</li></ul>
+      </article>
+      <article class="t1-work-card">
+        <p class="t1-eyebrow">Applied accessibility · Current project</p>
+        <h3>EZ-TV</h3>
+        <p>A dementia-accessible media concept that makes familiar television, music, photographs, and family support easier to navigate.</p>
+        <a href="https://ez-tv-accessible-media.sidle880530.chatgpt.site/">Explore the demo <span aria-hidden="true">↗</span></a>
+      </article>
+      <article class="t1-work-card">
+        <p class="t1-eyebrow">Research framework</p>
+        <h3>Embodied Adaptive Interface Framework</h3>
+        <p>A framework for interfaces that respond to context and communicate why their behaviour changes.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="t1-approach" aria-labelledby="t1-approach-title">
+    <p class="t1-eyebrow">How I work</p>
+    <h2 id="t1-approach-title">Start with the people. Make the next step clear.</h2>
+    <div class="t1-steps">
+      <article><span>01</span><h3>Understand</h3><p>Clarify the people, context, constraints, and outcome that matter.</p></article>
+      <article><span>02</span><h3>Investigate</h3><p>Use research and evaluation to find where the experience helps or gets in the way.</p></article>
+      <article><span>03</span><h3>Make it actionable</h3><p>Deliver clear findings, a practical design direction, or a working digital experience.</p></article>
+    </div>
+  </section>
+
+  <section class="t1-advocacy" aria-labelledby="t1-advocacy-title">
+    <p class="t1-eyebrow">Current advocacy</p>
+    <h2 id="t1-advocacy-title">Better care for younger people living in long-term care.</h2>
+    <p>I’m advocating for appropriate staffing, rehabilitation, supervised mobility, and care that recognizes the needs of people living with early-onset dementia.</p>
+    <a href="https://www.change.org/BetterCare">Read the campaign <span aria-hidden="true">↗</span></a>
+  </section>
+
+  <section class="t1-contact" aria-labelledby="t1-contact-title">
+    <div><p class="t1-eyebrow">Have a question or a project?</p><h2 id="t1-contact-title">Tell me what you’re trying to make better.</h2></div>
+    <a class="t1-button" href="mailto:Sidle@hotmail.ca?subject=Project%20inquiry">Email Savannah <span aria-hidden="true">↗</span></a>
+  </section>
+</div>

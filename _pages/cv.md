@@ -26,7 +26,7 @@ description: "Selected education, research, experience, and skills for Savannah 
       <p>Thesis: <em>User Trust of Adaptive Self-Aware Interfaces</em>. Proposed the Embodied Adaptive Interface framework. Recipient of 11 graduate scholarships and academic awards.</p>
     </article>
     <article class="cv-entry">
-      <header><div><h3>Bachelor of Arts (Honours) in Psychology</h3><p>Memorial University of Newfoundland · Minor in Social/Cultural Studies</p></div><time>2020</time></header>
+      <header><div><h3>Bachelor of Arts in Psychology</h3><p>Memorial University of Newfoundland · Four-year degree · Minor in Social/Cultural Studies</p></div><time>2020</time></header>
     </article>
   </div>
 </section>
